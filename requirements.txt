@@ -1,0 +1,17 @@
+crewai
+google-generativeai
+python-dotenv
+
+pypdf
+pandas
+openpyxl
+python-docx
+
+langchain==0.2.17
+langchain-community==0.2.19
+langchain-text-splitters
+
+sentence-transformers
+faiss-cpu
+
+streamlit
